@@ -61,12 +61,22 @@
                                     <div class="row">
                                         <div class="col-6 col-md-4 mb-2">
                                             <label class="btn btn-outline-primary w-100 h-100 d-flex align-items-center justify-content-center text-decoration-none">
+                                                <input type="radio" name="amount" value="3500" hidden > 3500 ৳
+                                            </label>
+                                        </div>
+                                        <div class="col-6 col-md-4 mb-2">
+                                            <label class="btn btn-outline-primary w-100 h-100 d-flex align-items-center justify-content-center text-decoration-none">
                                                 <input type="radio" name="amount" value="3000" hidden > 3000 ৳
                                             </label>
                                         </div>
                                         <div class="col-6 col-md-4 mb-2">
                                             <label class="btn btn-outline-primary w-100 h-100 d-flex align-items-center justify-content-center text-decoration-none">
                                                 <input type="radio" name="amount" value="2500" hidden > 2500 ৳
+                                            </label>
+                                        </div>
+                                        <div class="col-6 col-md-4 mb-2">
+                                            <label class="btn btn-outline-primary w-100 h-100 d-flex align-items-center justify-content-center text-decoration-none">
+                                                <input type="radio" name="amount" value="2000" hidden > 2000 ৳
                                             </label>
                                         </div>
                                         <div class="col-6 col-md-4 mb-2">
